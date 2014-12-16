@@ -1,1 +1,1 @@
-My website implemened in Ruby on Rails
+My website implemented in Ruby on Rails
